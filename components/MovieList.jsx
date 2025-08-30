@@ -16,7 +16,7 @@ function MovieList() {
         "Batman faces his greatest psychological and physical test as the Joker unleashes chaos on Gotham City.",
     },
     {
-      name: "Interstellar",
+      name: "Iar",
       category: "Sci-Fi",
       movieTime: "2h 49m",
       imdbScore: 8.6,
