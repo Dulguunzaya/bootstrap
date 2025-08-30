@@ -88,7 +88,7 @@ function MovieList() {
   ];
 
   return (
-    <div className="grid grid-cols-3">
+    <div className="grid grid-cols-8 gap-5 w-[80%] mx-auto">
       {movies.map((movie, index) => (
         <MovieItem
           key={index}
